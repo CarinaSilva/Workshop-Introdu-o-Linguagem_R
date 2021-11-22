@@ -5,10 +5,6 @@
 <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/logo_RSudio.png" width=150 align=rigth> <br />
 
 
-<br />
-<br />
-
-
 # Data e Horário
 Total 2 horas
 
@@ -16,7 +12,7 @@ Total 2 horas
 
 
 ## Formadora
-  <img src="https://github.com/CarinaSilva/Introducao-Linguagem-de-Programacao-em-R/blob/main/foto_formadores.png" width=400 align=center>
+   Carina Silva
    
    
    
@@ -35,7 +31,8 @@ Dia                  |       Conteúdos
                        |        Scripting
                        |        Instalação de Packages
                        |        Tipos de dados 
-                       |        Construção de funções                                               
+                       |        Construção de funções   
+                       
 ----------------------------------------------------------
 
                       
