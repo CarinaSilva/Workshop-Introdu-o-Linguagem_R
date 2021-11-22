@@ -24,9 +24,8 @@ O curso de Introdução à Linguagem de Programação R pretende ensinar conceit
 
 ## Programa
 
-Dia                  |       Conteúdos
 ----------------------------------------------------------
-**3 dezembro**         |        Introdução ao R
+                       |        Introdução ao R
                        |        Objetos no R                  
                        |        Scripting
                        |        Instalação de Packages
